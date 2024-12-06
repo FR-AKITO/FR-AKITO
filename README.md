@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Allow Me To Introduce Myself</h1>
-<h3 align="center">I'm Akito. Just A Programmer</h3>
+<h3 align="center">I'm Akito. Just A Programmer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=FR-AKITOr&label=Profile%20views&color=0e75b6&style=flat" alt="FR-AKITO" /> </p>
 
